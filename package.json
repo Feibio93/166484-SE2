@@ -10,10 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/trentose2/20182601.git"
   },
-  "author": "",
+  "author": "Fabio Da Rolt",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/trentose2/20182601/issues"
   },
-  "homepage": "https://github.com/trentose2/20182601#readme"
+  "homepage": "https://github.com/trentose2/20182601#readme",
+    "fetch": "node-fetch"
 }
