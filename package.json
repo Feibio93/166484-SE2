@@ -16,6 +16,6 @@
     "url": "https://github.com/trentose2/20182601/issues"
   },
   "homepage": "https://github.com/trentose2/20182601#readme",
-    "fetch": "node-fetch"
+    "fetch": "node-fetch",
     "express": "express"
 }
