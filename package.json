@@ -17,4 +17,5 @@
   },
   "homepage": "https://github.com/trentose2/20182601#readme",
     "fetch": "node-fetch"
+    "express": "express"
 }
